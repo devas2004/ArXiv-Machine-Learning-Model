@@ -1,5 +1,5 @@
 # ArXiv-Machine-Learning-Model
-Built a multi-class classifier for 39 arXiv CS categories using TF-IDF and classical ML. Iterated from a scratch logistic regression to a soft-voting ensemble (ComplementNB, Logistic Regression, LinearSVC, SGD), reaching 68.7% validation accuracy, on private leaderboard on kaggle.
+Built a multi-class classifier for 39 arXiv CS categories using TF-IDF and classical ML (NLP). Iterated from a scratch logistic regression to a soft-voting ensemble (ComplementNB, Logistic Regression, LinearSVC, SGD), reaching 68.7% validation accuracy, on private leaderboard on kaggle.
 
 # arXiv CS Paper Classifier
 Multi-class text classification of arXiv papers across 39 Computer Science subcategories using TF-IDF features and classical ML methods.
